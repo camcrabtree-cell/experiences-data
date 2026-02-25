@@ -1,0 +1,32 @@
+[
+  {
+    "event": "Valley CC Pro-Am",
+    "date": "2026-04-27",
+    "location": "Centennial, Colorado",
+    "handle": "valley-cc-pro-am-april-27-2026"
+  },
+  {
+    "event": "Walking Stick GC Pro-Am",
+    "date": "2026-06-15",
+    "location": "Pueblo, Colorado",
+    "handle": "walking-stick-gc-pro-am-june-15-2026"
+  },
+  {
+    "event": "Coal Creek GC Pro-Am",
+    "date": "2026-07-20",
+    "location": "Louisville, Colorado",
+    "handle": "coal-creek-gc-pro-am-july-20-2026"
+  },
+  {
+    "event": "Flying Horse North Pro-Am",
+    "date": "2026-08-04",
+    "location": "Colorado Springs, Colorado",
+    "handle": "flying-horse-north-pro-am-aug-4-2026"
+  },
+  {
+    "event": "Las Vegas Pro-Am",
+    "date": "2026-11-02",
+    "location": "Las Vegas, Nevada",
+    "handle": "las-vegas-pro-am"
+  }
+]
