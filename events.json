@@ -1,9 +1,51 @@
 [
   {
+    "event": "Scoring Boot Camp: Short Game (Intermediate to Advanced)",
+    "date": "2026-04-04",
+    "location": "CommonGround Golf Course",
+    "handle": "scoring-boot-camp-short-game-apr-4-2026"
+  },
+  {
+    "event": "Build Your Swing: Irons (Beginner to Intermediate)",
+    "date": "2026-04-04",
+    "location": "CommonGround Golf Course",
+    "handle": "build-your-swing-irons-apr-4-2026"
+  },
+  {
+    "event": "Build Your Swing: Woods / Hybrids / Driver (Beginner to Intermediate)",
+    "date": "2026-04-11",
+    "location": "CommonGround Golf Course",
+    "handle": "build-your-swing-woods-driver-apr-11-2026"
+  },
+  {
+    "event": "Scoring Basics: Short Game (Beginner to Intermediate)",
+    "date": "2026-04-18",
+    "location": "CommonGround Golf Course",
+    "handle": "scoring-basics-short-game-apr-18-2026"
+  },
+  {
+    "event": "Scoring Boot Camp: Sand / Bunkers (Intermediate to Advanced)",
+    "date": "2026-04-25",
+    "location": "CommonGround Golf Course",
+    "handle": "scoring-boot-camp-bunkers-apr-25-2026"
+  },
+  {
     "event": "Valley CC Pro-Am",
     "date": "2026-04-27",
     "location": "Centennial, Colorado",
     "handle": "valley-cc-pro-am-april-27-2026"
+  },
+  {
+    "event": "Build Your Swing: Irons (Beginner to Intermediate)",
+    "date": "2026-05-02",
+    "location": "CommonGround Golf Course",
+    "handle": "build-your-swing-irons-may-2-2026"
+  },
+  {
+    "event": "Build Your Swing: Woods / Hybrids / Driver (Beginner to Intermediate)",
+    "date": "2026-05-09",
+    "location": "CommonGround Golf Course",
+    "handle": "build-your-swing-woods-driver-may-9-2026"
   },
   {
     "event": "Walking Stick GC Pro-Am",
